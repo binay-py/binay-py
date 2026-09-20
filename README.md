@@ -15,11 +15,4 @@
 
 ---
 
-### 💻 Working with
-
-```
-JavaScript  ·  Chrome Extensions (Manifest V3)  ·  Cloudflare Workers  ·  D1  ·  SQLite
-TypeScript  ·  Node  ·  Web Crypto  ·  REST + OAuth2  ·  PWA / Service Workers
-```
-
 <sub>📍 Bardiya, Nepal · Products at <a href="https://webmatrices.com">webmatrices.com</a></sub>
