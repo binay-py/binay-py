@@ -11,8 +11,8 @@
 
 > 💬 Ask me about **Chrome Extensions (Manifest V3), Cloudflare Workers, Web Crypto and shipping without a backend**
 
-[My Products](https://webmatrices.com) | [KarmaFarm](https://github.com/binay-py/karmafarm) | [sanduk](https://github.com/binay-py/storagesystem) | [PremiumTube](https://github.com/binay-py/youtube-premium)
+[My Products](https://binay.codes/projects) | [KarmaFarm](https://github.com/binay-py/karmafarm) | [sanduk](https://github.com/binay-py/storagesystem) | [PremiumTube](https://github.com/binay-py/youtube-premium)
 
 ---
 
-<sub>📍 Bardiya, Nepal · Products at <a href="https://webmatrices.com">webmatrices.com</a></sub>
+<sub>📍 Bardiya, Nepal · Products at <a href="https://binay.codes/projects">Binay Bhandari</a></sub>
