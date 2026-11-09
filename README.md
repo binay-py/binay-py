@@ -5,6 +5,7 @@
 ### Just a passionate browser-extension developer from Nepal
 
 - 🛡️ Latest: **[claude-skills](https://github.com/binay-py/claude-skills)**: 23 tested Claude Code skills and hooks. Undo shell commands, block hallucinated packages, catch leaked keys, cut token usage
+- 💬 I run **[r/totla](https://www.reddit.com/r/totla/)**, a subreddit for people building with AI coding tools. Come show your work
 - 🔭 I'm currently building **[KarmaFarm](https://github.com/binay-py/karmafarm)** — a Reddit copilot that writes in *your* voice, not an AI's
 - 🔐 Everything I ship runs on **your machine, not my server** — no backend, no telemetry, your API key stays yours
 - 👯 I'm looking to collaborate on **[sanduk](https://github.com/binay-py/storagesystem)** — encrypted cloud storage on Telegram + Cloudflare *(AGPL, Open Source)*
